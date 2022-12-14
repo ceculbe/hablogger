@@ -281,6 +281,9 @@ void initBMP(){
 }
 ```
 
+
+### Tips
+- In order to see the serial monitor, where your data will be printing out, press ctrl + shift + m or enter the tools menu and select the serial monitor
 ### Trouble shooting
 - Unplug the Arduino and check all of the connections and try running it again
 - Sd card formatting needs to be fat32 or the program will not run
