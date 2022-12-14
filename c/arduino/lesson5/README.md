@@ -91,7 +91,8 @@ void loop() {
 
 ```
 
-
+### Tips
+- In order to see the serial monitor, where your data will be printing out, press ctrl + shift + m or enter the tools menu and select the serial monitor
 ### Troubleshooting
 - If using a SD card larger that 32gb partitioning down to 32gb or less and formatting to fat32 may be required
 - If the SD card is not registering check all your connections first, if this doesn't work insure that the card is empty and formatted to fat 32
