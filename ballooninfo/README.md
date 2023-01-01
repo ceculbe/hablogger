@@ -1,12 +1,12 @@
-test
+# test
 
-What is polarity?
+## What is polarity?
 
-Static is bad...
+## Static is bad...
 
 Components
 
-***IDE
+***IDE***
 
 Thonny: https://thonny.org/
 
