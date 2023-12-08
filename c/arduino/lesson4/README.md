@@ -107,7 +107,9 @@ void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
   serial_connection.begin(9600);
-  Serial.println("GPS Start");
+  if (serial_connection.isListening()) {
+    Serial.println("GPS Start");
+  }
 }
 
 void loop() {
