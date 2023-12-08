@@ -111,7 +111,9 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  // serial?connection.available() reports the number of bytes available to read,
+  // so this while loop continues as long as that number of bytes is not zero
+  // once all the bytes are read, the number of bytes is zero and the program will continue
   while(serial_connection.available())
   {
     gps.encode(serial_connection.read());
