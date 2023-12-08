@@ -19,7 +19,7 @@
 - [Arduino IDE](/c/arduino/lesson4/screenshots/arduino-ide.png)
 - [Arduino Uno](/c/arduino/lesson4/screenshots/arduino-uno-r3.png)
 - BMP180 Sensor<br>![BMP180 Sensor](/c/arduino/lesson3/screenshots/bmp180.png)
-- [5 pin connector](/c/arduino/lesson4/screenshots/5-pin-connector.png)
+- [4 pin connector](/c/arduino/lesson4/screenshots/5-pin-connector.png)
 - [Breadboard](/c/arduino/lesson4/screenshots/breadboard.png)
 - [Jumper Wires](/c/arduino/lesson3/screenshots/1956-02.jpg)
 <br><br>
